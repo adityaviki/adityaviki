@@ -1,5 +1,4 @@
 - Hi, I’m Aditya.
 - I’m interested in Full Stack Development.
 - I’m currently learning Java, Elixir and System design.
-- You can reach me through my email address: adityaviki01@gmail.com
 - Skills: React, Nodejs, Javascript, mongodb, python, c++, java
